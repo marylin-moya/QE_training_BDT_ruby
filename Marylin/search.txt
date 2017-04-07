@@ -1,0 +1,18 @@
+1. Research
+	- When and why BDD was defined
+	  It is defined to decrease the misunderstandings between POs, devs and QE
+	- The most important aspects of BDD
+      TDD(Testing, Coding, Design) and ATDD(Automate)
+	- why is useful and when could be applied
+	  * Collaboration between POs, devs and QE
+	  * Simple specification, POs, devs and QE understand the same behavior
+	  * Provide early feedback to avoid rework due to misunderstandings
+	  * Focus on the behavior of the application
+	- which type of teams could implement BDD
+	  It is used by the teams that are starting the implementation and defining the testing scenarios at the same time. If the application is already implemented is called BDT
+
+2. Structure of a feature - Give an example
+3. Structure of a user story - Give an example
+4. Structure of a scenario - Give an example
+5. Structure of a feature - Give an example
+
